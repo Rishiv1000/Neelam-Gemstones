@@ -71,6 +71,9 @@ const Home = () => {
           </FooterText>
         </FooterContainer>
       </Footer>
+      <a href="/1-main.zip" download>
+          Done ZIP
+      </a>
     </div>
   );
 };
